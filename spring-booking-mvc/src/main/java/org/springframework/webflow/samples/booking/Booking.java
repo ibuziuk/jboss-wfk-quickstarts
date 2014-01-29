@@ -227,5 +227,4 @@ public class Booking implements Serializable {
 	return "Booking(" + user + "," + hotel + ")";
     }
 
-
 }
